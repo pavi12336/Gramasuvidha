@@ -183,3 +183,5 @@ The app ships with 5 real-world-style projects:
 - **University:** VTU
 - **Batch:** Explorer G4
 - **Domain:** Android App Development using GenAI
+
+Clone the repository:- https://github.com/pavi12336/Gramasuvidha.git
